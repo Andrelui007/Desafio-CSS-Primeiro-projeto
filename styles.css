@@ -68,7 +68,7 @@ p {
     line-height: 34px;
     color: aqua;
 }
-@media screen { max-width: 730px;
+@media screen { max-width: 900px;
     body {
         width: 180%;
         height: 50%;
